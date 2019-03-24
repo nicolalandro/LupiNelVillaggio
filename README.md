@@ -8,3 +8,8 @@ In questo repository ho caricato tutte le carte che ho realizzato combinando imm
 <img src="Carte%20Complete/ZZ-Test/DorianWolfV2.png?raw=true" height="400"></img>
 <img src="Carte%20Complete/ZZ-Test/DottorJekyllV1.png?raw=true" height="400"></img>
 <img src="Carte%20Complete/ZZ-Test/CartomanteV2.png?raw=true" height="400"></img>
+
+
+## Principali SW
+* [Gimp](https://www.gimp.org/)
+* [Libre Office Write](https://it.libreoffice.org/)
