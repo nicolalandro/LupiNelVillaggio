@@ -9,6 +9,9 @@ In questo repository ho caricato tutte le carte che ho realizzato combinando imm
 <img src="https://raw.githubusercontent.com/nicolalandro/LupiNelVillaggio/master/Carte%20Complete/zz-tutte_le_carte/DottorJekyllV1.png" height="400"></img>
 <img src="https://raw.githubusercontent.com/nicolalandro/LupiNelVillaggio/master/Carte%20Complete/zz-tutte_le_carte/CartomanteV2.png" height="400"></img>
 
+<img src="https://raw.githubusercontent.com/nicolalandro/LupiNelVillaggio/master/Carte%20Complete/zz-tutte_le_carte/Retro.png" height="400"></img>
+<img src="https://raw.githubusercontent.com/nicolalandro/LupiNelVillaggio/master/Carte%20Complete/zz-tutte_le_carte/Piuma.png" height="400"></img>
+<img src="https://raw.githubusercontent.com/nicolalandro/LupiNelVillaggio/master/Carte%20Complete/zz-tutte_le_carte/VecchioSaggio.png" height="400"></img>
 
 ## Principali SW
 * [Gimp](https://www.gimp.org/)
