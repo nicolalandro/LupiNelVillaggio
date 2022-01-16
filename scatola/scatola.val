@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern labelPrefix="en">
+    <!--Pattern created with Valentina v0.7.49.0 (https://smart-pattern.com.ua/).-->
+    <version>0.8.11</version>
+    <unit>cm</unit>
+    <description/>
+    <notes/>
+    <measurements>../Misure/individuale/Misure.vit</measurements>
+    <increments/>
+    <previewCalculations/>
+    <draw name="Parte del modello 1">
+        <calculation>
+            <point id="1" mx="0.120894" my="0.0616001" name="A" showLabel="true" type="single" x="-1.5073" y="0.460512"/>
+            <point angle="0" basePoint="1" id="2" length="@w" lineColor="black" mx="-4.62724" my="0.11331" name="A1" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="1" id="3" length="@h" lineColor="black" mx="0.221819" my="-4.86308" name="A2" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="2" id="4" length="@h" lineColor="black" mx="0.350111" my="-2.08343" name="A3" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="3" id="5" length="@w" lineColor="black" mx="-4.71658" my="-1.58398" name="A4" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="1" id="6" length="@d" lineColor="black" mx="1.29092" my="-1.82685" name="A5" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="180" basePoint="3" id="7" length="@d" lineColor="black" mx="1.45125" my="0.238063" name="A6" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="6" id="8" length="@h" lineColor="black" mx="0.435639" my="-6.53087" name="A7" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="225" basePoint="6" id="9" length="2" lineColor="black" mx="-0.746374" my="-2.4495" name="A8" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="135" basePoint="8" id="10" length="2" lineColor="black" mx="-0.417935" my="0.586757" name="A9" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270.085" basePoint="9" id="11" length="@h - 2 * sqrt(2)" lineColor="black" mx="-2.21572" my="-5.97494" name="A10" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="2" id="12" length="@d" lineColor="black" mx="-2.94271" my="-1.69856" name="A11" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="5" id="13" length="@d" lineColor="black" mx="-2.38678" my="-0.0889253" name="A12" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="12" id="14" length="@h" lineColor="black" mx="0.136291" my="-3.78885" name="A13" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="3" id="15" length="@d" lineColor="black" mx="-2.21572" my="-2.54187" name="A14" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="5" id="16" length="@d" lineColor="black" mx="0.392875" my="-2.57777" name="A15" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="15" id="17" length="@w" lineColor="black" mx="-4.83138" my="-1.75937" name="A16" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270+45" basePoint="15" id="18" length="2" lineColor="black" mx="-3.46604" my="-1.37583" name="A17" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270-45" basePoint="17" id="19" length="2" lineColor="black" mx="1.89089" my="-1.45887" name="A18" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="18" id="20" length="@w - 2 * sqrt(2)" lineColor="black" mx="-3.25003" my="-0.0164178" name="A19" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90&#10;" basePoint="1" id="21" length="@d" lineColor="black" mx="-2.17813" my="0.636357" name="A20" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90" basePoint="2" id="22" length="@d" lineColor="black" mx="0.16879" my="0.923736" name="A21" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="21" id="23" length="@w" lineColor="black" mx="-4.18978" my="0.157393" name="A22" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90-45" basePoint="21" id="24" length="2" lineColor="black" mx="-3.13606" my="-0.896328" name="A23" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="90+45" basePoint="23" id="25" length="2" lineColor="black" mx="0.83934" my="-0.60895" name="A24" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="24" id="26" length="@w - 2 * sqrt(2)" lineColor="black" mx="-3.13606" my="-1.47108" name="A25" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="12" id="27" length="@w" lineColor="black" mx="-3.9982" my="-1.95005" name="A26" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="0" basePoint="14" id="28" length="@w" lineColor="black" mx="-2.46551" my="0.588461" name="A27" showLabel="true" type="endLine" typeLine="hair"/>
+            <point angle="270" basePoint="27" id="29" length="@h" lineColor="black" mx="0.791444" my="-6.78759" name="A28" showLabel="true" type="endLine" typeLine="hair"/>
+        </calculation>
+        <modeling>
+            <point id="55" idObject="11" inUse="true" mx="-2.21572" my="-5.97494" showLabel="true" type="modeling"/>
+            <point id="56" idObject="9" inUse="true" mx="-0.746374" my="-2.4495" showLabel="true" type="modeling"/>
+            <point id="57" idObject="6" inUse="true" mx="1.29092" my="-1.82685" showLabel="true" type="modeling"/>
+            <point id="58" idObject="1" inUse="true" mx="0.120894" my="0.0616001" showLabel="true" type="modeling"/>
+            <point id="59" idObject="21" inUse="true" mx="-2.17813" my="0.636357" showLabel="true" type="modeling"/>
+            <point id="60" idObject="24" inUse="true" mx="-3.13606" my="-0.896328" showLabel="true" type="modeling"/>
+            <point id="61" idObject="26" inUse="true" mx="-3.13606" my="-1.47108" showLabel="true" type="modeling"/>
+            <point id="62" idObject="23" inUse="true" mx="-4.18978" my="0.157393" showLabel="true" type="modeling"/>
+            <point id="63" idObject="2" inUse="true" mx="-4.86764" my="0.0171497" showLabel="true" type="modeling"/>
+            <point id="64" idObject="12" inUse="true" mx="-2.94271" my="-1.69856" showLabel="true" type="modeling"/>
+            <point id="65" idObject="27" inUse="true" mx="-3.9982" my="-1.95005" showLabel="true" type="modeling"/>
+            <point id="66" idObject="29" inUse="true" mx="0.791444" my="-6.78759" showLabel="true" type="modeling"/>
+            <point id="67" idObject="14" inUse="true" mx="0.136291" my="-3.78885" showLabel="true" type="modeling"/>
+            <point id="68" idObject="5" inUse="true" mx="-4.71658" my="-1.58398" showLabel="true" type="modeling"/>
+            <point id="69" idObject="17" inUse="true" mx="-4.83138" my="-1.75937" showLabel="true" type="modeling"/>
+            <point id="70" idObject="20" inUse="true" mx="-3.25003" my="-0.0164178" showLabel="true" type="modeling"/>
+            <point id="71" idObject="18" inUse="true" mx="-3.46604" my="-1.37583" showLabel="true" type="modeling"/>
+            <point id="72" idObject="15" inUse="true" mx="-2.21572" my="-2.54187" showLabel="true" type="modeling"/>
+            <point id="73" idObject="3" inUse="true" mx="0.173739" my="-4.76692" showLabel="true" type="modeling"/>
+            <point id="74" idObject="8" inUse="true" mx="0.435639" my="-6.53087" showLabel="true" type="modeling"/>
+            <point id="76" idObject="1" inUse="false" mx="0.226727" my="0.246808" showLabel="true" type="modeling"/>
+            <point id="77" idObject="2" inUse="false" mx="-7.3295" my="-0.522068" showLabel="true" type="modeling"/>
+            <point id="78" idObject="5" inUse="false" mx="-4.71658" my="-1.58398" showLabel="true" type="modeling"/>
+            <point id="79" idObject="3" inUse="false" mx="0.221819" my="-4.86308" showLabel="true" type="modeling"/>
+            <point id="81" idObject="8" inUse="false" mx="0.435639" my="-6.53087" showLabel="true" type="modeling"/>
+            <point id="82" idObject="11" inUse="false" mx="-2.21572" my="-5.97494" showLabel="true" type="modeling"/>
+            <point id="83" idObject="9" inUse="false" mx="-0.746374" my="-2.4495" showLabel="true" type="modeling"/>
+            <point id="84" idObject="6" inUse="false" mx="1.29092" my="-1.82685" showLabel="true" type="modeling"/>
+            <point id="86" idObject="21" inUse="false" mx="-2.17813" my="0.636357" showLabel="true" type="modeling"/>
+            <point id="87" idObject="24" inUse="false" mx="-3.13606" my="-0.896328" showLabel="true" type="modeling"/>
+            <point id="88" idObject="26" inUse="false" mx="-3.13606" my="-1.47108" showLabel="true" type="modeling"/>
+            <point id="89" idObject="23" inUse="false" mx="-4.18978" my="0.157393" showLabel="true" type="modeling"/>
+            <point id="91" idObject="18" inUse="false" mx="-3.46604" my="-1.37583" showLabel="true" type="modeling"/>
+            <point id="92" idObject="15" inUse="false" mx="-2.21572" my="-2.54187" showLabel="true" type="modeling"/>
+            <point id="93" idObject="17" inUse="false" mx="-4.83138" my="-1.75937" showLabel="true" type="modeling"/>
+            <point id="94" idObject="20" inUse="false" mx="-3.25003" my="-0.0164178" showLabel="true" type="modeling"/>
+            <point id="96" idObject="2" inUse="false" mx="-4.71145" my="0.029101" showLabel="true" type="modeling"/>
+            <point id="97" idObject="12" inUse="false" mx="-2.94271" my="-1.69856" showLabel="true" type="modeling"/>
+            <point id="98" idObject="14" inUse="false" mx="0.136291" my="-3.78885" showLabel="true" type="modeling"/>
+            <point id="99" idObject="5" inUse="false" mx="-4.71658" my="-1.58398" showLabel="true" type="modeling"/>
+            <point id="101" idObject="8" inUse="false" mx="0.435639" my="-6.53087" showLabel="true" type="modeling"/>
+            <point id="102" idObject="11" inUse="false" mx="-2.21572" my="-5.97494" showLabel="true" type="modeling"/>
+            <point id="103" idObject="9" inUse="false" mx="-0.746374" my="-2.4495" showLabel="true" type="modeling"/>
+            <point id="104" idObject="6" inUse="false" mx="1.29092" my="-1.82685" showLabel="true" type="modeling"/>
+            <point id="105" idObject="1" inUse="false" mx="0.120894" my="0.0616001" showLabel="true" type="modeling"/>
+            <point id="106" idObject="21" inUse="false" mx="-2.17813" my="0.636357" showLabel="true" type="modeling"/>
+            <point id="107" idObject="24" inUse="false" mx="-3.13606" my="-0.896328" showLabel="true" type="modeling"/>
+            <point id="108" idObject="26" inUse="false" mx="-3.13606" my="-1.47108" showLabel="true" type="modeling"/>
+            <point id="109" idObject="23" inUse="false" mx="-4.18978" my="0.157393" showLabel="true" type="modeling"/>
+            <point id="110" idObject="2" inUse="false" mx="-4.62724" my="0.11331" showLabel="true" type="modeling"/>
+            <point id="111" idObject="12" inUse="false" mx="-2.94271" my="-1.69856" showLabel="true" type="modeling"/>
+            <point id="112" idObject="27" inUse="false" mx="-3.9982" my="-1.95005" showLabel="true" type="modeling"/>
+            <point id="113" idObject="29" inUse="false" mx="0.791444" my="-6.78759" showLabel="true" type="modeling"/>
+            <point id="114" idObject="14" inUse="false" mx="0.136291" my="-3.78885" showLabel="true" type="modeling"/>
+            <point id="115" idObject="5" inUse="false" mx="-4.71658" my="-1.58398" showLabel="true" type="modeling"/>
+            <point id="116" idObject="17" inUse="false" mx="-4.83138" my="-1.75937" showLabel="true" type="modeling"/>
+            <point id="117" idObject="20" inUse="false" mx="-3.25003" my="-0.0164178" showLabel="true" type="modeling"/>
+            <point id="118" idObject="18" inUse="false" mx="-3.46604" my="-1.37583" showLabel="true" type="modeling"/>
+            <point id="119" idObject="3" inUse="false" mx="0.221819" my="-4.86308" showLabel="true" type="modeling"/>
+            <point id="121" idObject="8" inUse="true" mx="0.435639" my="-6.53087" showLabel="true" type="modeling"/>
+            <point id="122" idObject="6" inUse="true" mx="1.29092" my="-1.82685" showLabel="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="123" inUse="true" lastToCountour="false" name="Tracciato senza nome" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="121" type="NodePoint"/>
+                    <node idObject="122" type="NodePoint"/>
+                </nodes>
+            </path>
+            <point id="124" idObject="21" inUse="true" mx="-2.17813" my="0.636357" showLabel="true" type="modeling"/>
+            <point id="125" idObject="23" inUse="true" mx="-4.18978" my="0.157393" showLabel="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="126" inUse="true" lastToCountour="false" name="Tracciato senza nome" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="124" type="NodePoint"/>
+                    <node idObject="125" type="NodePoint"/>
+                </nodes>
+            </path>
+            <point id="127" idObject="15" inUse="true" mx="-2.21572" my="-2.54187" showLabel="true" type="modeling"/>
+            <point id="128" idObject="17" inUse="true" mx="-4.83138" my="-1.75937" showLabel="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="129" inUse="true" lastToCountour="false" name="Tracciato senza nome" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="127" type="NodePoint"/>
+                    <node idObject="128" type="NodePoint"/>
+                </nodes>
+            </path>
+            <point id="130" idObject="3" inUse="true" mx="0.221819" my="-4.86308" showLabel="true" type="modeling"/>
+            <point id="131" idObject="1" inUse="true" mx="0.120894" my="0.0616001" showLabel="true" type="modeling"/>
+            <point id="132" idObject="2" inUse="true" mx="-4.62724" my="0.11331" showLabel="true" type="modeling"/>
+            <point id="133" idObject="5" inUse="true" mx="-4.71658" my="-1.58398" showLabel="true" type="modeling"/>
+            <point id="134" idObject="3" inUse="true" mx="0.221819" my="-4.86308" showLabel="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="135" inUse="true" lastToCountour="false" name="Tracciato senza nome" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="130" type="NodePoint"/>
+                    <node idObject="131" type="NodePoint"/>
+                    <node idObject="132" type="NodePoint"/>
+                    <node idObject="133" type="NodePoint"/>
+                    <node idObject="134" type="NodePoint"/>
+                </nodes>
+            </path>
+            <point id="136" idObject="12" inUse="true" mx="-2.94271" my="-1.69856" showLabel="true" type="modeling"/>
+            <point id="137" idObject="14" inUse="true" mx="0.136291" my="-3.78885" showLabel="true" type="modeling"/>
+            <path cut="false" firstToCountour="false" id="138" inUse="true" lastToCountour="false" name="Tracciato senza nome" type="2" typeLine="hair" visible="1">
+                <nodes>
+                    <node idObject="136" type="NodePoint"/>
+                    <node idObject="137" type="NodePoint"/>
+                </nodes>
+            </path>
+        </modeling>
+        <details>
+            <detail forbidFlipping="false" forceFlipping="false" hideMainPath="false" id="75" mx="-2.7827" my="0.0496032" name="Dettaglio" version="2" width="1">
+                <data annotation="" foldPosition="" fontSize="0" height="1" letter="" mx="0" my="0" onFold="false" orientation="" quantity="1" rotation="0" rotationWay="" tilt="" visible="false" width="1"/>
+                <patternInfo fontSize="0" height="1" mx="0" my="0" rotation="0" visible="false" width="1"/>
+                <grainline arrows="0" length="1" mx="0" my="0" rotation="90" visible="false"/>
+                <nodes>
+                    <node idObject="55" type="NodePoint"/>
+                    <node idObject="56" type="NodePoint"/>
+                    <node idObject="57" type="NodePoint"/>
+                    <node idObject="58" type="NodePoint"/>
+                    <node idObject="59" type="NodePoint"/>
+                    <node idObject="60" type="NodePoint"/>
+                    <node idObject="61" type="NodePoint"/>
+                    <node idObject="62" type="NodePoint"/>
+                    <node idObject="63" type="NodePoint"/>
+                    <node idObject="64" type="NodePoint"/>
+                    <node idObject="65" type="NodePoint"/>
+                    <node idObject="66" type="NodePoint"/>
+                    <node idObject="67" type="NodePoint"/>
+                    <node idObject="68" type="NodePoint"/>
+                    <node idObject="69" type="NodePoint"/>
+                    <node idObject="70" type="NodePoint"/>
+                    <node idObject="71" type="NodePoint"/>
+                    <node idObject="72" type="NodePoint"/>
+                    <node idObject="73" type="NodePoint"/>
+                    <node idObject="74" type="NodePoint"/>
+                </nodes>
+                <iPaths>
+                    <record path="123"/>
+                    <record path="126"/>
+                    <record path="129"/>
+                    <record path="135"/>
+                    <record path="138"/>
+                </iPaths>
+            </detail>
+        </details>
+        <groups/>
+    </draw>
+</pattern>
